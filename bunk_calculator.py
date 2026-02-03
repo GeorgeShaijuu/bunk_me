@@ -4,10 +4,10 @@ from math import ceil, floor
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("dark-blue")
 
-NEON_CYAN = "#1CA1AF"
+NEON_CYAN = "#1CA1AG"
 NEON_PINK = "#FF4081"
 DEEP_BG = "#121212"                     
-CARD_BG = "#1E1E1E" 
+CARD_BG = "#212020" 
 TEXT_WHITE = "#FFFFFF"
 
 class BunkCalculatorApp(ctk.CTk):
